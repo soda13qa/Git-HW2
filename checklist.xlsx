@@ -1,0 +1,30 @@
+ID	Step	Result
+1	Install app	Passed
+2	Open app	Passed
+3	All buttond have the same size	Failed
+4	Add widget on the screen	Passed
+5	All white dotted lines are visible	Passed
+6	Resize widget	Passed
+7	All white dotted lines are visible	Failed
+8	Take a screenshot	Passed
+9	Tap on "Save data" button	Passed
+10	Toast "Data was successfully saved" appears	Passed
+11	Tap on "Send email" button	Passed
+12	The email app opens 	Passed
+13	Send report to developer	Passed
+14	Tap on "Clear data button"	Passed
+15	Toast "Data was successfully deleted" appears	Passed
+16	Tap on "Clear data button" again	Passed
+17	Toast "Data doesn't exist" appears	Passed
+18	Change the font size to min	Passed
+19	Resize widget	Passed
+20	Change the font size to max	Passed
+21	Resize widget	Passed
+22	Change screen zoom to min	Passed
+23	Resize widget	Passed
+24	Change screen zoom to max	Passed
+25	Resize widget	Passed
+26	Change screen grid	Passed
+27	Resize widget	Passed
+28	Delete widget	Passed
+29	Uninstall the app	Passed
